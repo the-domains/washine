@@ -1,0 +1,28 @@
+name: WaShine
+favicon: null
+layout_spectrum: 0.83968864986673
+typography_spectrum: 0.6041223388165236
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.14927580067887902
+  lightness: 0.6233770188409835
+  saturation: 0.8324608509428799
+  rhythmicContrast: 0.6879072315059602
+purpose: []
